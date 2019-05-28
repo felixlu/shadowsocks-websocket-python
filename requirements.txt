@@ -1,4 +1,0 @@
-honcho
-numpy
-shadowsocks-py
-websockify
